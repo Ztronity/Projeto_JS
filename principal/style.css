@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Silkscreen&display=swap');
+
+body{
+    display: block;
+    width: 99vw;
+    height: 97vh;
+    font-family: 'Silkscreen', cursive;
+    text-align: center;
+    background-image: url("imagens/principal.gif");
+    background-position:30% 45%;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+button{
+    border-radius: 70%;
+    max-width: 240px;
+    max-height: 250px;
+    width: auto;
+    height: auto;
+    
+}
+img{
+    border-radius:50%;
+    max-width: 150px;
+    max-height: 230px;
+    width: auto;
+    height: auto;
+
+}
+#cait{
+    border: 2px solid #ffff;
+    border-radius: 50%;
+}
+h1{
+   width: 5px;
+   margin-top: 10px; 
+   margin-bottom: 10px;
+   text-align: center;
+   font-size: 25px;
+   text-justify: auto;
+   padding-right: 280px;
+}
+footer{
+    display: block;
+  background-color: rgb(19, 0, 128);
+  color: #000000;
+  padding: 9px;
+  font-size: 15px;
+ border-radius: 10px; 
+}
